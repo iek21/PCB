@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=DL1-4
+Removed Member From Class: ClassName=Power Management_1 Member=DL1
+Added Component: Designator=DL?(DB-S/DB105STR)
+Add component (AddParameter): Name = "Case/Package"; Value = "DB-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smc-diodes.com/propdf/DB101S%20THRU%20DB107S%20N1459%20REV.B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed By"; Value = "Izzet Emre KARSAVRAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Voltage"; Value = "600V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DL?-4
+Added Pin To Net: NetName=NetDL?_1 Pin=DL?-1
+Added Pin To Net: NetName=NetDL?_1 Pin=T1-9
+Added Net: Name=NetDL?_1
+Added Pin To Net: NetName=NetDL?_2 Pin=DL?-2
+Added Pin To Net: NetName=NetDL?_2 Pin=T1-7
+Added Net: Name=NetDL?_2
+Added Pin To Net: NetName=NetDL?_3 Pin=DL?-3
+Added Pin To Net: NetName=NetDL?_3 Pin=F1-1
+Added Net: Name=NetDL?_3
+Added Member To Class: ClassName=Power Management_1 Member=Component DL? DB105STR
+Added Room: Name=Microcontroller
+Added Room: Name=Other_Componentt
+Added Room: Name=Power Management_1

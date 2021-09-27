@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Power Management_1 Member=*2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Member To Class: ClassName=Power Management_1 Member=Component T1 BV302S12010

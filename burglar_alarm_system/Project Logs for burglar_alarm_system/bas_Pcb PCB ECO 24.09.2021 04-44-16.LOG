@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=T1 NewDesignator=*2
+Added Pin To Net: NetName=+3V3DC Pin=C14-2
+Added Pin To Net: NetName=NetC14_1 Pin=C15-2
+Added Pin To Net: NetName=+3V3DC Pin=C16-1
+Added Pin To Net: NetName=+3V3DC Pin=C17-1
+Added Pin To Net: NetName=+3V3DC Pin=C18-1
+Added Pin To Net: NetName=+3V3DC Pin=C19-1
+Added Pin To Net: NetName=+3V3DC Pin=U4-9
+Added Pin To Net: NetName=+3V3DC Pin=U4-24
+Added Pin To Net: NetName=+3V3DC Pin=U4-36
+Added Pin To Net: NetName=+3V3DC Pin=U4-48

@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=RTD NewDesignator=*2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=MCU_N
+Change Net Name : Old Net Name=NetR11_1 New Net Name=MCU_P
+Added Differential Pair: Name=MCU
+Added Member To Class: ClassName=Microcontroller Member=Component X2 ECS-160-20-30B-TR
+Added Room: Name=Microcontroller
+Added Room: Name=Other_Componentt
+Added Room: Name=Power Management_1
+Added Room: Name=Sensor_Board

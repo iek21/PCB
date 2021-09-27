@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetDL1_1 Pin=T1-7
+Removed Pin From Net: NetName=NetDL1_2 Pin=T1-9
+Added Pin To Net: NetName=NetDL1_2 Pin=T1-7
+Added Pin To Net: NetName=NetDL1_1 Pin=T1-9
+Added Room: Name=Microcontroller
+Added Room: Name=Other_Componentt
+Added Room: Name=Power Management_1
